@@ -110,8 +110,16 @@ made changes in guthub central repo :-
 
 git pull https://github.com/Kavithamane/demo.git
 
-git add <file> 
+git add <file>
+ 
+Modify the file : 
 
+Git add <file> 
+
+git commit - "hint"
+
+git push -u orign main
+ 
 modify the file 
 
 git add <file> 
