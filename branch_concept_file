@@ -9,3 +9,9 @@ push file from local main branch to remote other branch
 git push <remote_repository> <local_branch>:<remote_branch>
 
 ex: git push origin main:branch1
+
+Push file from Local another branch to reomte another branch 
+
+git push origin <local_another_branch>:<remote_another_branch>
+
+ex: git push origin new_branch:Branch1
