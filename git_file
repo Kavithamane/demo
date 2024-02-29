@@ -28,6 +28,15 @@ Work directory --> create file
 
 Staging area is invisble 
 
+Modify the file : 
+
+Git add <file> 
+
+git commit - "hint"
+
+git push -u orign main 
+
+
 Local repository - .get 
 
 vi git_file 
