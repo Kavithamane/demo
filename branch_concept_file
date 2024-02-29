@@ -1,0 +1,11 @@
+Push file from local main branch to remote main branch 
+
+git push -u <remote_name> <branch_name>
+
+ex: git push -u origin main
+
+push file from local main branch to remote other branch 
+
+git push <remote_repository> <local_branch>:<remote_branch>
+
+ex: git push origin main:branch1
