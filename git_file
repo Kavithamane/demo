@@ -106,6 +106,19 @@ git remote add origin <git_url/git_username/git_repo_name>
 
 git remote -v 
 
+made changes in guthub central repo :- 
+
+git pull https://github.com/Kavithamane/demo.git
+
+git add <file> 
+
+modify the file 
+
+git add <file> 
+
+git commit -m "msg"
+
+git push -u origin main 
 
 
 
